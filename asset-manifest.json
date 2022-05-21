@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.2883356d.css",
-    "main.js": "/portfolio-website/static/js/main.195c4258.js",
+    "main.css": "/portfolio-website/static/css/main.a1f69596.css",
+    "main.js": "/portfolio-website/static/js/main.126630f9.js",
     "static/js/937.a2a19cb3.chunk.js": "/portfolio-website/static/js/937.a2a19cb3.chunk.js",
     "static/media/home-background.png": "/portfolio-website/static/media/home-background.2c9a435f9f308c48494c.png",
+    "static/media/portfolio-new.png": "/portfolio-website/static/media/portfolio-new.90c2d7811a41f7d126ba.png",
     "static/media/projects-background.jpg": "/portfolio-website/static/media/projects-background.2cbff796870ffb461af8.jpg",
     "static/media/hobbies-background.jpg": "/portfolio-website/static/media/hobbies-background.f3af15d2c48a8d7c3952.jpg",
     "static/media/extra-background.jpg": "/portfolio-website/static/media/extra-background.a0d1a77ad3d847fcf6bf.jpg",
     "static/media/connect-2-background.jpg": "/portfolio-website/static/media/connect-2-background.3215884106eacaf45c8c.jpg",
+    "static/media/portfolio-old.png": "/portfolio-website/static/media/portfolio-old.689b47c7ac57d76c697c.png",
+    "static/media/productivity-app.png": "/portfolio-website/static/media/productivity-app.7cef5465dffbae762c01.png",
     "index.html": "/portfolio-website/index.html",
-    "main.2883356d.css.map": "/portfolio-website/static/css/main.2883356d.css.map",
-    "main.195c4258.js.map": "/portfolio-website/static/js/main.195c4258.js.map",
+    "main.a1f69596.css.map": "/portfolio-website/static/css/main.a1f69596.css.map",
+    "main.126630f9.js.map": "/portfolio-website/static/js/main.126630f9.js.map",
     "937.a2a19cb3.chunk.js.map": "/portfolio-website/static/js/937.a2a19cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2883356d.css",
-    "static/js/main.195c4258.js"
+    "static/css/main.a1f69596.css",
+    "static/js/main.126630f9.js"
   ]
 }
