@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.38edf14c.css",
+    "main.css": "/portfolio-website/static/css/main.18af1123.css",
     "main.js": "/portfolio-website/static/js/main.48fc1615.js",
     "static/js/937.a2a19cb3.chunk.js": "/portfolio-website/static/js/937.a2a19cb3.chunk.js",
     "static/media/home-background.png": "/portfolio-website/static/media/home-background.2c9a435f9f308c48494c.png",
@@ -12,12 +12,12 @@
     "static/media/transfer-horror-game.png": "/portfolio-website/static/media/transfer-horror-game.714f426edc883a61f40c.png",
     "static/media/SBU.png": "/portfolio-website/static/media/SBU.26d9bcc8b8cc7d5890cb.png",
     "index.html": "/portfolio-website/index.html",
-    "main.38edf14c.css.map": "/portfolio-website/static/css/main.38edf14c.css.map",
+    "main.18af1123.css.map": "/portfolio-website/static/css/main.18af1123.css.map",
     "main.48fc1615.js.map": "/portfolio-website/static/js/main.48fc1615.js.map",
     "937.a2a19cb3.chunk.js.map": "/portfolio-website/static/js/937.a2a19cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38edf14c.css",
+    "static/css/main.18af1123.css",
     "static/js/main.48fc1615.js"
   ]
 }
